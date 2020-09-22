@@ -32,7 +32,7 @@
 
 ### Start with your own bot
 
-- First change the "nlu", "stories" , domains.yml files to fit the requirements of your bot
+- After typing "rasa init" We get a basic template of chatbot. To make our own bot, First change the "nlu", "stories" , domains.yml files to fit the requirements of your bot
 
 - Once We have changed the 3 files , We will now train our nlu Model using "rasa train"
 
