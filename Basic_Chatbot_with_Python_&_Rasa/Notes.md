@@ -2,7 +2,7 @@
 
 - Start with " rasa init " Command to start the Chatbot Basic Template
 
-- " rasa shell" to start the chatbot
+- First Train the existing chatbot with "rasa train" and then use  "rasa shell" to start the chatbot
 
 - "/stop" to  exit the "rasa shell"
 
