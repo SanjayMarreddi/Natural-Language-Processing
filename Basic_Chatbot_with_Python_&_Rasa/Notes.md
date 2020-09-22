@@ -95,7 +95,7 @@ To create Custom Actions We need 3 things :
 - We actually give the logic in the "run function" of Class
 
 
-- Once the changes are made in "actions" file also, Then we first "train rasa"
+- Once the changes are made in "actions" file also, Then we first "rasa train"
 
 - Then we need to run the action server which chatbot uses to communicate with to perform these custom actions.
 
